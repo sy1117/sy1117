@@ -1,9 +1,11 @@
 # 👋 Hi, I’m Soyoung Kim
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code>
+  <img src="https://img.shields.io/badge/-Javascript-202020?logo=Javascript"/>   
+  <img src="https://img.shields.io/badge/-HTML-202020?logo=HTML5"/>   
+  <img src="https://img.shields.io/badge/-CSS-202020?logo=CSS3"/>           
+  <img src="https://img.shields.io/badge/-React-202020?logo=React"/>
+  <img src="https://img.shields.io/badge/-GraphQL-202020?logo=GraphQL"/>
+  <img src="https://img.shields.io/badge/-Typescript-202020?logo=Typescript"/>   
+  <img src="https://img.shields.io/badge/-NodeJS-026e00?logo=Node%2Ejs"/>   
+</code>
